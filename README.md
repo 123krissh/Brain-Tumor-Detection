@@ -11,17 +11,12 @@ All trained model weights and results are stored in the Model results/ directory
 
 ### DataSet : Brain tumor MRI Image
 
-## 📌 Dependencies
+### 📌 Dependencies
 Python 3.8+
-
 PyTorch
-
 OpenCV
-
 Ultralytics
-
 TensorBoard
-
 Git LFS
 
 ##📝 Future Scope
