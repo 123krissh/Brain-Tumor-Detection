@@ -34,6 +34,5 @@ Real-time MRI analysis
 Clinical report generation using NLP
 
 ## 👨‍💻 Author
-Krishna Suthar
-B.Tech in AI & Data Science, GGSIPU, New Delhi
-GitHub • LinkedIn
+### Krishna Suthar
+### B.Tech in AI & Data Science, GGSIPU, New Delhi
