@@ -6,3 +6,34 @@ This project presents a comparative study on brain tumor detection using multipl
 
 To analyze and compare the performance of different YOLO models on brain MRI scans for detecting and localizing brain tumors effectively.
 
+## 📊 Results & Comparison
+All trained model weights and results are stored in the Model results/ directory. Each YOLO version has its own folder containing metrics, loss curves, confusion matrices, and sample detections.
+
+### DataSet : Brain tumor MRI Image
+
+## 📌 Dependencies
+Python 3.8+
+
+PyTorch
+
+OpenCV
+
+Ultralytics
+
+TensorBoard
+
+Git LFS
+
+##📝 Future Scope
+Integration with segmentation models (e.g., U-Net)
+
+Tumor classification (benign vs malignant)
+
+Real-time MRI analysis
+
+Clinical report generation using NLP
+
+## 👨‍💻 Author
+Krishna Suthar
+B.Tech in AI & Data Science, GGSIPU, New Delhi
+GitHub • LinkedIn
