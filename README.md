@@ -13,13 +13,18 @@ All trained model weights and results are stored in the Model results/ directory
 
 ### 📌 Dependencies
 Python 3.8+
+
 PyTorch
+
 OpenCV
+
 Ultralytics
+
 TensorBoard
+
 Git LFS
 
-##📝 Future Scope
+### 📝 Future Scope
 Integration with segmentation models (e.g., U-Net)
 
 Tumor classification (benign vs malignant)
