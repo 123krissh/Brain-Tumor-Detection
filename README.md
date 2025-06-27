@@ -13,18 +13,23 @@ The CNN model and its evaluation results are available in the CNN Results.zip fi
 
 ### DataSet : Brain tumor MRI Image
 
+## 📚 CNN Component
+<li>Data preprocessing with augmentation</li>
+<li>CNN training with GPU support</li>
+<li> Train & Val Accuracy visualization</li>
+<li>Test set evaluation and prediction</li>
+
+## ⚙️ Setup & Usage 
+<li>Create and activate virtual environment</li>
+<li>Install dependencies</li>
+<li>Run training notebook or script</li>
+
 ### 📌 Dependencies
-Python 3.12.6
-
-PyTorch
-
-OpenCV
-
-Ultralytics
-
-TensorBoard
-
-Git LFS
+<li>Python 3.12.6</li>
+<li>PyTorch</li>
+<li>OpenCV</li>
+<li>Ultralytics</li>
+<li>TensorBoard</li>
 
 ## 👨‍💻 Author
 ### Krishna Suthar
