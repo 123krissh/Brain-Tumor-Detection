@@ -15,11 +15,13 @@ The CNN model and its evaluation results are available in the CNN Results.zip fi
 
 ## 📚 CNN Component
 <li>Data preprocessing with augmentation</li>
-<li>CNN training with GPU support</li>
 <li> Train & Val Accuracy visualization</li>
 <li>Test set evaluation and prediction</li>
 
+### <li>YOLO and CNN models training with Nvidia Geforce RTX 3050 GPU support</li>
+
 ## ⚙️ Setup & Usage 
+<li>Setup CUDA & Cudnn for GPU</li>
 <li>Create and activate virtual environment</li>
 <li>Install dependencies</li>
 <li>Run training notebook or script</li>
