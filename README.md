@@ -24,7 +24,7 @@ The CNN model and its evaluation results are available in the CNN Results.zip fi
 <li>Install dependencies</li>
 <li>Run training notebook or script</li>
 
-### 📌 Dependencies
+## 📌 Dependencies
 <li>Python 3.12.6</li>
 <li>PyTorch</li>
 <li>OpenCV</li>
